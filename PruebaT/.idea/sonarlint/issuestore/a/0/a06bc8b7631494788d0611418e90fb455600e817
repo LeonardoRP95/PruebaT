@@ -1,0 +1,7 @@
+
+„
+java:S1130"nRemove the declaration of thrown exception 'java.awt.AWTException', as it cannot be thrown from method's body.(ëÞ¸°
+„
+java:S1130"nRemove the declaration of thrown exception 'java.awt.AWTException', as it cannot be thrown from method's body.(æ¾¯ì
+S
+java:S1128"8Remove this unused import 'com.integra.ach.utils.Robot'.(æ°æçýÿÿÿÿ

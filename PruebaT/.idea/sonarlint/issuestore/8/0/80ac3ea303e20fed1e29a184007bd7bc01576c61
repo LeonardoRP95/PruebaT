@@ -1,0 +1,16 @@
+
+R
+java:S4973%"<Strings and Boxed types should be compared using "equals()".(ªíÂş
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ìäúÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ÍÎ™Ñ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(–ïÒæıÿÿÿÿ
+‰
+java:S11307"nRemove the declaration of thrown exception 'java.awt.AWTException', as it cannot be thrown from method's body.(ÇÔ“çıÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(‰‚¬ßıÿÿÿÿ
+V	java:S125<"<This block of commented-out lines of code should be removed.(ù¯ğÊúÿÿÿÿ
+R
+java:S1128"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ8ü¢êå0
+d
+java:S1128"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ8ü¢êå0
+A
+java:S5960T"+Remove this assertion from production code.(ø£…À
